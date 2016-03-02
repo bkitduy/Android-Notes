@@ -1,4 +1,4 @@
-# Android-Taking-Notes
+# Android-Notes
 1.	Android
   - Native : Java (Android Studio, Eclipse)-OOP , Kotlin (Android Studio, Intellij IDE)- OOP and Structure, Scala (Intellij IDE)-OOP and Structure
 2.	Database local:
