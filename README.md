@@ -30,3 +30,15 @@
 
   3.3	Awesome libraries
     - UX/UI: https://github.com/wasabeef/awesome-android-ui
+    
+  3.4   Some explains:
+    - Fragment: 
+    	+ A Fragment must always be embedded in an Activity
+    	+ Use android.app.Fragment with Activity
+    	
+    - FragmentActivity:
+    	+ Use the FragmentActivity to hold your Fragments
+    	+ Use android.support.v4.app.Fragment with FragmentActivity
+    	
+    Don't add the support package Fragment to an Activity as it will cause an Exception to be thrown.
+
