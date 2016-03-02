@@ -30,6 +30,7 @@
 
   3.3	Awesome libraries
     - UX/UI: https://github.com/wasabeef/awesome-android-ui
+    - Libraries: https://github.com/wasabeef/awesome-android-libraries
     
   3.4   Some explains:
     - Fragment: 
