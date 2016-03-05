@@ -45,3 +45,5 @@
     	
     Don't add the support package Fragment to an Activity as it will cause an Exception to be thrown.
 
+    - Annotation: http://o7planning.org/web/fe/default/vi/document/18678/huong-dan-su-dung-java-annotation
+    
