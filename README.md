@@ -64,7 +64,7 @@ I. Java
     	+ http://o7planning.org/web/fe/default/vi/document/18678/huong-dan-su-dung-java-annotation
     	+ http://beginnersbook.com/2014/09/java-annotations/
     
-    --------------------------------- Coming soon ------------------------------------------
+	--------------------------------- Coming soon ------------------------------------------
     
 II. Kotlin
   1. Language and IDE
@@ -73,7 +73,7 @@ II. Kotlin
   	- http://cirorizzo.net/2016/03/04/building-a-kotlin-project/
   	
 	
-    -------------------------------- Coming soon -----------------------------------------
+	-------------------------------- Coming soon -----------------------------------------
 
 B. CrossPlatform
 
