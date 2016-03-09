@@ -1,7 +1,20 @@
 # Android-Notes
-1.	Android
-  - Native : Java (Android Studio, Eclipse)-OOP , Kotlin (Android Studio, Intellij IDE)- OOP and Structure, Scala (Intellij IDE)-OOP and Structure
-2.	Database local:
+ Android
+  - Native : 
+  	+ Java (Android Studio, Eclipse)-OOP 
+  	+ Kotlin (Android Studio, Intellij IDE)- OOP and Structure 
+  	+ Scala (Intellij IDE)-OOP and Structure
+  	+ 
+  - Cross platform
+  	+ PhoneGap
+  	+ Titanim
+  	+ React Native
+  	
+A. Native
+I. Java
+ 1. Language and IDE
+   Write with Java (currently Java 7 and supported Java 8) and write on Android Studio and Eclipse IDE
+ 2.	Database local:
   -  SQLite (SQL):
 	  + Can use some framework ORM (Sugar ORM?) to convert data from database to object model in OOP
   - Realm (SQL):
@@ -10,7 +23,7 @@
 	  + https://github.com/vals-productions/sqlighter
   - Couchbase Lite (NoSQL)
 
-3.	Other Libraries:
+ 3.	Other Libraries:
   - GSON : Parse JSON- https://github.com/google/gson
   - Hackson-databind: https://github.com/FasterXML/jackson-databind
   - Otto: http://square.github.io/otto/
@@ -50,3 +63,19 @@
     	+ http://o7planning.org/web/fe/default/vi/document/18678/huong-dan-su-dung-java-annotation
     	+ http://beginnersbook.com/2014/09/java-annotations/
     
+    --------------------------------- Coming soon ------------------------------------------
+    
+II. Kotlin
+  1. Language and IDE
+  	Kotlin language and you can write on Android Studio IDE with plugin Kotlin or Intellij IDE
+  2. Some tutorials:
+  	- http://cirorizzo.net/2016/03/04/building-a-kotlin-project/
+  	
+	
+    -------------------------------- Coming soon -----------------------------------------
+
+B. CrossPlatform
+I. React Native
+
+	--------------------------- Coming soon ------------------------------------------
+ 
