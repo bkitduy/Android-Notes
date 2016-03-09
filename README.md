@@ -7,7 +7,7 @@
   	+ 
   - Cross platform
   	+ PhoneGap
-  	+ Titanim
+  	+ Titanium
   	+ React Native
   	
 A. Native
