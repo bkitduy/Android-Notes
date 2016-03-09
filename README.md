@@ -11,6 +11,7 @@
   	+ React Native
   	
 A. Native
+
 I. Java
  1. Language and IDE
    Write with Java (currently Java 7 and supported Java 8) and write on Android Studio and Eclipse IDE
@@ -75,6 +76,7 @@ II. Kotlin
     -------------------------------- Coming soon -----------------------------------------
 
 B. CrossPlatform
+
 I. React Native
 
 	--------------------------- Coming soon ------------------------------------------
