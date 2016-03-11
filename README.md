@@ -78,7 +78,7 @@ I. Java
 
 	 And change classpath 'android-maven'
 	
-	 to
+	 to classpath
 
  	 apply plugin: 'com.github.dcendents.android-maven'
 
