@@ -63,7 +63,19 @@ I. Java
     - Annotation: 
     	+ http://o7planning.org/web/fe/default/vi/document/18678/huong-dan-su-dung-java-annotation
     	+ http://beginnersbook.com/2014/09/java-annotations/
-    
+ 4. Some bug may occur on Gradle
+ 
+  4.1 Gradle sync failed: 
+    - Cause: org/gradle/api/publication/maven/internal/DefaultMavenFactory
+   
+       + if your "gradle.properties" file which is located at the root level of your project contains :
+	
+	 classpath 'com.github.dcendents:android-maven-plugin:1.2',
+	
+	 try to change to:
+	
+	 classpath 'com.github.dcendents:android-maven-gradle-plugin:1.3'
+
 	--------------------------------- Coming soon ------------------------------------------
     
 II. Kotlin
