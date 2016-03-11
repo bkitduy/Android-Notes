@@ -76,6 +76,12 @@ I. Java
 	
 	 classpath 'com.github.dcendents:android-maven-gradle-plugin:1.3'
 
+	 And change classpath 'android-maven'
+	
+	 to
+
+ 	 apply plugin: 'com.github.dcendents.android-maven'
+
 	--------------------------------- Coming soon ------------------------------------------
     
 II. Kotlin
