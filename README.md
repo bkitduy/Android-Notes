@@ -18,6 +18,8 @@ I. Java
  2.	Database local:
   -  SQLite (SQL):
 	  + Can use some framework ORM (Sugar ORM?) to convert data from database to object model in OOP
+	  + greenDao: http://lomza.totem-soft.com/tutorial-how-to-integrate-greendao/
+	  	      https://www.youtube.com/watch?v=zDdu1MlXjZw
   - Realm (SQL):
 	  + https://realm.io/docs/java/latest/
   - SQLighter (SQL):
