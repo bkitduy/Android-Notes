@@ -83,7 +83,19 @@ I. Java
 	 to classpath
 
  	 apply plugin: 'com.github.dcendents.android-maven'
+ 
+ 5. Some plugins support fast coding:
+ 
+  5.1 Android DPI Caculator
 
+  5.2 Android Material Design Icon Generator Plugin
+  
+  5.3 Android Parcelable Code Generator
+  
+  5.4 CheckStyle
+  
+  5.5 9-Patch-Resizer: https://github.com/redwarp/9-Patch-Resizer/releases
+ 
 	--------------------------------- Coming soon ------------------------------------------
     
 II. Kotlin
