@@ -35,6 +35,7 @@ I. Java
     http://laptrinhandroid.xyz/2015/09/16/gioi-thieu-retrofit-2-0-a-type-safe-http-client-for-android/
   - Robolectric
   - Rx Java
+  - Others you can find here: https://android-arsenal.com/
   
   3.1	Design Pattern:
     - Creational Pattern (Khởi tạo object): Builder, Abtract Factory, Factory Method, Singleton, Prototype
