@@ -51,6 +51,7 @@ I. Java
   3.3	Awesome libraries
     - UX/UI: https://github.com/wasabeef/awesome-android-ui
     - Libraries: https://github.com/wasabeef/awesome-android-libraries
+    - https://snowdream.github.io/awesome-android/
     
   3.4   Some explains:
     - Fragment: 
