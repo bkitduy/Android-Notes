@@ -47,6 +47,7 @@ I. Java
   3.2	Notes:
     - Save States Fragment/Activity: http://inthecheesefactory.com/blog/fragment-state-saving-best-practices/en
     - Style writing: http://www.google.com/design/spec/style/writing.html#writing-capitalization-punctuation
+    - http://saulmm.github.io/avoding-android-cold-starts
 
   3.3	Awesome libraries
     - UX/UI: https://github.com/wasabeef/awesome-android-ui
