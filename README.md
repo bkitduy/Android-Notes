@@ -43,6 +43,7 @@ I. Java
     - Bahavioral Pattern (Dùng trong thực hiện các hành vi của object): Interpretor, Iterator, Observer,Template Method, Chain of Responsibility, Command, Mediator, Memento, State, Startegy and Visitor
     - References:
     	+ http://laptrinh.vn/d/4346-design-pattern-la-gi-huong-dan-design-pattern.html
+    - MVP: http://hannesdorfmann.com/mosby/mvp/
     
   3.2	Notes:
     - Save States Fragment/Activity: http://inthecheesefactory.com/blog/fragment-state-saving-best-practices/en
