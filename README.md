@@ -71,6 +71,8 @@ I. Java
     - Annotation: 
     	+ http://o7planning.org/web/fe/default/vi/document/18678/huong-dan-su-dung-java-annotation
     	+ http://beginnersbook.com/2014/09/java-annotations/
+    	
+    - Android : http://icetea-vn.blogspot.com/search/label/Android
  4. Some bug may occur on Gradle
  
   4.1 Gradle sync failed: 
