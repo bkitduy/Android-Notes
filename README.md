@@ -34,7 +34,8 @@ I. Java
   - Retrofit/Volley : Network calls
     http://laptrinhandroid.xyz/2015/09/16/gioi-thieu-retrofit-2-0-a-type-safe-http-client-for-android/
   - Robolectric
-  - Rx Java
+  - Rx Java, Android: 
+    http://x-team.com/2016/02/introduction-reactivex-android/ 
   - Others you can find here: https://android-arsenal.com/
   
   3.1	Design Pattern:
