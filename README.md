@@ -76,6 +76,10 @@ I. Java
     	+ http://beginnersbook.com/2014/09/java-annotations/
     	
     - Android : http://icetea-vn.blogspot.com/search/label/Android
+    
+    - Android thread: 
+    	+ "background" or "worker" threads (same)
+    	+ UI thread or main thread (same)
  4. Some bug may occur on Gradle
  
   4.1 Gradle sync failed: 
