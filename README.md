@@ -30,6 +30,7 @@ I. Java
   - GSON : Parse JSON- https://github.com/google/gson
   - Hackson-databind: https://github.com/FasterXML/jackson-databind
   - Otto: http://square.github.io/otto/
+  - EventBus : https://medium.com/@cainwong/using-an-eventbus-in-android-pt-1-why-an-eventbus-c2c9cdff41d7#.u1s04p9gh 
   - Parceler (base on Parcelable): https://github.com/johncarl81/parceler
   - Retrofit/Volley : Network calls
     http://laptrinhandroid.xyz/2015/09/16/gioi-thieu-retrofit-2-0-a-type-safe-http-client-for-android/
