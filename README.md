@@ -48,6 +48,7 @@ I. Java
     - MVP: http://hannesdorfmann.com/mosby/mvp/
     
   3.2	Notes:
+    - Best practice Android: https://github.com/futurice/android-best-practices#java-packages-architecture
     - Save States Fragment/Activity: http://inthecheesefactory.com/blog/fragment-state-saving-best-practices/en
     - Style writing: http://www.google.com/design/spec/style/writing.html#writing-capitalization-punctuation
     - http://saulmm.github.io/avoding-android-cold-starts
