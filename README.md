@@ -33,7 +33,8 @@ I. Java
   - EventBus : https://medium.com/@cainwong/using-an-eventbus-in-android-pt-1-why-an-eventbus-c2c9cdff41d7#.u1s04p9gh 
   - Parceler (base on Parcelable): https://github.com/johncarl81/parceler
   - Retrofit/Volley : Network calls
-    http://laptrinhandroid.xyz/2015/09/16/gioi-thieu-retrofit-2-0-a-type-safe-http-client-for-android/
+    + http://laptrinhandroid.xyz/2015/09/16/gioi-thieu-retrofit-2-0-a-type-safe-http-client-for-android/
+    + http://code.tutsplus.com/tutorials/an-introduction-to-volley--cms-23800
   - Robolectric
   - Rx Java, Android: 
     http://x-team.com/2016/02/introduction-reactivex-android/ 
