@@ -38,6 +38,7 @@ I. Java
   - Robolectric
   - Rx Java, Android: 
     http://x-team.com/2016/02/introduction-reactivex-android/ 
+    https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
   - Others you can find here: https://android-arsenal.com/
   
   3.1	Design Pattern:
