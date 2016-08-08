@@ -39,6 +39,7 @@ I. Java
   - Rx Java, Android: 
     http://x-team.com/2016/02/introduction-reactivex-android/ 
     https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
+    https://medium.com/@Viraj.Tank/art-of-subscribe-unsubscribe-in-rxjava-12c30d315777#.wq67j5v3v
   - Others you can find here: https://android-arsenal.com/
   
   3.1	Design Pattern:
