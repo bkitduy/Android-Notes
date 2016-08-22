@@ -42,6 +42,7 @@ I. Java
     https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
     https://medium.com/@Viraj.Tank/art-of-subscribe-unsubscribe-in-rxjava-12c30d315777#.wq67j5v3v
     * https://medium.com/crunching-rxandroid/crunching-rxandroid-intro-c27eb6f009ea#.j9ylr84hx
+  - Rx binding: https://realm.io/news/donn-felker-reactive-android-ui-programming-with-rxbinding/
   - Lambda expression and Method Reference: 
     https://blog.idrsolutions.com/2015/02/java-8-method-references-explained-5-minutes/
   - Others you can find here: https://android-arsenal.com/
