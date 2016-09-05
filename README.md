@@ -63,7 +63,7 @@ I. Java
     - http://saulmm.github.io/avoding-android-cold-starts
     - Memory leak: http://daynhauhoc.com/t/memory-leak-nguyen-nhan-gay-leak-trong-android/11343
     - http://blog.appconus.com/2015/08/16/memory-leak-trong-android-nguyen-nhan-va-cach-xu-ly-phan-1/
-    - Scale type: https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide
+    - Scale type ImageView: https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide
 
   3.3	Awesome libraries
     - UX/UI: https://github.com/wasabeef/awesome-android-ui
