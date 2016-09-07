@@ -43,6 +43,7 @@ I. Java
     https://medium.com/@Viraj.Tank/art-of-subscribe-unsubscribe-in-rxjava-12c30d315777#.wq67j5v3v
     * https://medium.com/crunching-rxandroid/crunching-rxandroid-intro-c27eb6f009ea#.j9ylr84hx
     * https://medium.com/fuzz/howdy-rxjava-8f40fef88181#.suvzbishp
+    * https://medium.com/we-are-yammer/converting-callback-async-calls-to-rxjava-ebc68bde5831#.7nuddblmo
   - Rx binding: https://realm.io/news/donn-felker-reactive-android-ui-programming-with-rxbinding/
   - Lambda expression and Method Reference: 
     https://blog.idrsolutions.com/2015/02/java-8-method-references-explained-5-minutes/
