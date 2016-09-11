@@ -10,6 +10,9 @@
   	+ Titanium
   	+ React Native
   	
+  - How to learn: https://blog.aritraroy.in/what-my-2-years-of-android-development-have-taught-me-the-hard-way-52b495ba5c51#.t6r7jqw7u
+  
+
 A. Native
 
 I. Java
