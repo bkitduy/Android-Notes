@@ -53,6 +53,7 @@ I. Java
   - Others you can find here: https://android-arsenal.com/
   
   3.1	Design Pattern:
+    - Java design patterns: https://github.com/iluwatar/java-design-patterns
     - Creational Pattern (Khởi tạo object): Builder, Abtract Factory, Factory Method, Singleton, Prototype
     - Structural Pattern (Thiết lập, định nghĩa quan hệ giữa các object): Adapter, Bridge, Composite, Decorator, Façade, Proxy, Flyweight
     - Bahavioral Pattern (Dùng trong thực hiện các hành vi của object): Interpretor, Iterator, Observer,Template Method, Chain of Responsibility, Command, Mediator, Memento, State, Startegy and Visitor
