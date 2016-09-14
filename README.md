@@ -11,8 +11,8 @@
   	+ React Native
   	
   - How to learn: https://blog.aritraroy.in/what-my-2-years-of-android-development-have-taught-me-the-hard-way-52b495ba5c51#.t6r7jqw7u
+  - Project and Code guidelines: https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md
   
-
 A. Native
 
 I. Java
@@ -23,7 +23,7 @@ I. Java
 	  + Can use some framework ORM (Sugar ORM?) to convert data from database to object model in OOP
 	  + greenDao: http://lomza.totem-soft.com/tutorial-how-to-integrate-greendao/
 	  	      https://www.youtube.com/watch?v=zDdu1MlXjZw
-  - Realm (SQL):
+  - Realm:
 	  + https://realm.io/docs/java/latest/
   - SQLighter (SQL):
 	  + https://github.com/vals-productions/sqlighter
@@ -32,10 +32,11 @@ I. Java
  3.	Other Libraries:
   - GSON : Parse JSON- https://github.com/google/gson
   - Hackson-databind: https://github.com/FasterXML/jackson-databind
-  - Otto: http://square.github.io/otto/
-  - EventBus : https://medium.com/@cainwong/using-an-eventbus-in-android-pt-1-why-an-eventbus-c2c9cdff41d7#.u1s04p9gh 
+  - Otto/EventBus: stream bus 
+  	+ http://square.github.io/otto/
+  	+ EventBus : https://medium.com/@cainwong/using-an-eventbus-in-android-pt-1-why-an-eventbus-c2c9cdff41d7#.u1s04p9gh 
   - Parceler (base on Parcelable): https://github.com/johncarl81/parceler
-  - Retrofit/Volley : Network calls
+  - Retrofit/Volley: Network calls
     + http://laptrinhandroid.xyz/2015/09/16/gioi-thieu-retrofit-2-0-a-type-safe-http-client-for-android/
     + http://code.tutsplus.com/tutorials/an-introduction-to-volley--cms-23800
   - Robolectric
