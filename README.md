@@ -134,7 +134,7 @@ I. Java
   
   5.5 9-Patch-Resizer: https://github.com/redwarp/9-Patch-Resizer/releases
   
-  6. Bug notes:
+ 6. Bug notes:
   	
 	6.1 Set size Dialog: You can custom your size of Dialog
 	
