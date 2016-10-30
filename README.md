@@ -18,7 +18,7 @@ A. Native
 I. Java
  1. Language and IDE
    Write with Java (currently Java 7 and supported Java 8) and write on Android Studio and Eclipse IDE
- 2.	Database local:
+ 2.	Database local (ussually used):
   -  SQLite (SQL):
 	  + Can use some framework ORM (Sugar ORM?) to convert data from database to object model in OOP
 	  + greenDao: http://lomza.totem-soft.com/tutorial-how-to-integrate-greendao/
@@ -28,6 +28,10 @@ I. Java
   - SQLighter (SQL):
 	  + https://github.com/vals-productions/sqlighter
   - Couchbase Lite (NoSQL)
+  
+  -DBFlow
+  
+  -SnappyDB
 
  3.	Other Libraries:
   - GSON : Parse JSON- https://github.com/google/gson
@@ -129,6 +133,16 @@ I. Java
   5.4 CheckStyle
   
   5.5 9-Patch-Resizer: https://github.com/redwarp/9-Patch-Resizer/releases
+  
+  6. Bug notes:
+  	
+	6.1 Set size Dialog: You can custom your size of Dialog
+	
+	http://stackoverflow.com/questions/2306503/how-to-make-an-alert-dialog-fill-90-of-screen-size
+	
+	6.2 Dismiss SoftKeyboard when click outside of Edittext
+	
+	http://stackoverflow.com/questions/20713273/dismiss-keyboard-when-click-outside-of-edittext-in-android
  
 	--------------------------------- Coming soon ------------------------------------------
     
