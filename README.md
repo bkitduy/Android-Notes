@@ -143,6 +143,13 @@ I. Java
 	6.2 Dismiss SoftKeyboard when click outside of Edittext
 	
 	http://stackoverflow.com/questions/20713273/dismiss-keyboard-when-click-outside-of-edittext-in-android
+	
+	6.3 Popup button at bottom when show SoftKeyboard:
+	
+	Add this snippet code to Activity class in AndroidManifest:
+		
+		android:windowSoftInputMode="adjustPan|adjustResize"
+	
  
 	--------------------------------- Coming soon ------------------------------------------
     
