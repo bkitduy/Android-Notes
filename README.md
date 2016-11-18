@@ -150,6 +150,12 @@ I. Java
 		
 		android:windowSoftInputMode="adjustPan|adjustResize"
 	
+	6.4 Hide shadow toolbar:
+	
+	Add this snippet code to AppBarLayout:
+	
+		app:elevation="0dp"
+		
  
 	--------------------------------- Coming soon ------------------------------------------
     
