@@ -75,6 +75,7 @@ I. Java
     - http://blog.appconus.com/2015/08/16/memory-leak-trong-android-nguyen-nhan-va-cach-xu-ly-phan-1/
     - Scale type ImageView: https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide
     - Load more RecyclerView: https://codentrick.com/load-more-recyclerview-bottom-progressbar/
+    - Sticker Header RecyclerView: https://github.com/edubarr/header-decor
 
   3.3	Awesome libraries
     - UX/UI: https://github.com/wasabeef/awesome-android-ui
